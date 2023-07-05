@@ -18,11 +18,7 @@ Aplicação desenvolvida no Stage 03 do programa Explorer da Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="Página responsiva mobile" src="./Assets/CapaMobile.PNG" width="100%">
-</p>
-
-<p align="center">
-  <img alt="Página responsiva web" src="./Assets/CapaWeb.PNG" width="100%">
+  <img alt="Página responsiva mobile e web" src="./Assets/Capa.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
